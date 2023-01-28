@@ -1,0 +1,35 @@
+int[] dizi
+index var : dizi[i]
+fori dongusu (sıra garanti cunku indexe gore gidiyor)
+foreach (sıra garanti degil)
+
+ArrayList
+index var (get(i))
+fori(sira garanti cunku indexe gore gidiyor)
+foreach (sira garanti degil)
+
+SET
+index YOK
+fori YOK
+foreach (sira garanti degil)
+garanti istiyosan ITERATOR yontemi.
+
+13.12.2022 (Bugun Gun23) Setleri ogrendik
+
+14.12.2022 (Yarin Gun24) Mapleri ogrenecegiz
+
+15.12.2022 (Yarindan sonra Gun25) persembe otobanda yeni seride geciyoruz bu serit tasarim seridi olacak kendi özel
+degiskenleri kendimiz tanimlayacagiz
+Yazilimcilarin seridi olacak
+
+Orn: ogrenci
+/ adi -> ogrenci.adi
+/ soyadi -> ogrenci.soyadi
+/ numarasi -> ogrenci.numarasi
+/ dersleri -> ogrenci.dersleri
+
+6 haftalik bi surec olacak , 5 hafta sonra testing toollara
+
+sonra 12 haftalik test tool ogrenme sureci
+
+sonra SDET.
